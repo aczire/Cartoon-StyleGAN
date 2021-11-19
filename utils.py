@@ -9,20 +9,20 @@ google_drive_paths = {
     "encoder_ffhq.pt" : "https://drive.google.com/uc?id=1QQuZGtHgD24Dn5E21Z2Ik25EPng58MoU",
 
     # Naver Webtoon
-    "NaverWebtoon.pt" : "https://drive.google.com/uc?id=1yIn_gM3Fk3RrRphTPNBPgJ3c-PuzCjOB",
-    "NaverWebtoon_FreezeSG.pt" : "https://drive.google.com/uc?id=1OysFtj7QTy7rPnxV9TXeEgBfmtgr8575",
-    "NaverWebtoon_StructureLoss.pt" : "https://drive.google.com/uc?id=1Oylfl5j-XGoG_pFHtQwHd2G7yNSHx2Rm",
+    "NaverWebtoon.pt" : "https://drive.google.com/uc?id=1wHNuRx5KwYcXnkfgwHPdEwXECVQrdH2c",
+    "NaverWebtoon_FreezeSG.pt" : "https://drive.google.com/uc?id=1p0q5rjWTFZVD0oN4L4Cq-1Z5QrTzPA_q",
+    "NaverWebtoon_StructureLoss.pt" : "https://drive.google.com/uc?id=1JeffrgcMv8OfPMU-nbK4iJXwmgU2yXpa",
 
-    "Romance101.pt" : "https://drive.google.com/uc?id=1wWt4dPC9TJfJ6cF3mwg7kQvpuVwPhSN7",
+    "Romance101.pt" : "https://drive.google.com/uc?id=1NVjyjyye7UQgTwyclPHx1R8dDOEt4b_U",
 
-    "TrueBeauty.pt" : "https://drive.google.com/uc?id=1yEky49SnkBqPhdWvSAwgK5Sbrc3ctz1y",
+    "TrueBeauty.pt" : "https://drive.google.com/uc?id=1em9meBQ9YCnBQkQiiqH4HHVNobhZA6NL",
 
-    "Disney.pt" : "https://drive.google.com/uc?id=1z51gxECweWXqSYQxZJaHOJ4TtjUDGLxA",
-    "Disney_FreezeSG.pt" : "https://drive.google.com/uc?id=1PJaNozfJYyQ1ChfZiU2RwJqGlOurgKl7",
-    "Disney_StructureLoss.pt" : "https://drive.google.com/uc?id=1PILW-H4Q0W8S22TO4auln1Wgz8cyroH6",
+    "Disney.pt" : "https://drive.google.com/uc?id=1bc9Mh6cEzlkHZJwnRrPX6T2EGqSHh-6c",
+    "Disney_FreezeSG.pt" : "https://drive.google.com/uc?id=1vQ0ZSjwgVkjxS9XojJF_khI50aME-Bap",
+    "Disney_StructureLoss.pt" : "https://drive.google.com/uc?id=1_RIR8gGnadR0lGBlVSGQVCQ2AQZuQJnI",
     
-    "Metface_FreezeSG.pt" : "https://drive.google.com/uc?id=1P5T6DL3Cl8T74HqYE0rCBQxcq15cipuw",
-    "Metface_StructureLoss.pt" : "https://drive.google.com/uc?id=1P65UldIHd2QfBu88dYdo1SbGjcDaq1YL",
+    "Metface_FreezeSG.pt" : "https://drive.google.com/uc?id=1oAUZlE2BEmE8hCCBbq4kJIyQHousmTep",
+    "Metface_StructureLoss.pt" : "https://drive.google.com/uc?id=1--_sfvGo5auSNwsf3lY78UyXaU6goA3y",
 }
 
 def download_pretrained_model(download_all=True, file=''):
