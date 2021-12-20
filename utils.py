@@ -5,24 +5,24 @@ import math
 
 google_drive_paths = {
 
-    "ffhq256.pt" : "https://drive.google.com/uc?id=1PQutd-JboOCOZqmd95XWxWrO8gGEvRcO",
-    "encoder_ffhq.pt" : "https://drive.google.com/uc?id=1QQuZGtHgD24Dn5E21Z2Ik25EPng58MoU",
+    "ffhq256.pt" : "https://drive.google.com/uc?id=1QXs7NqUT3Ss_nCY5cvqLnUrr-wSSAuMQ",
+    "encoder_ffhq.pt" : "https://drive.google.com/uc?id=1wva9Evi6TdfYIaQN_VK1LqN4dkBNgzDb",
 
     # Naver Webtoon
-    "NaverWebtoon.pt" : "https://drive.google.com/uc?id=1wHNuRx5KwYcXnkfgwHPdEwXECVQrdH2c",
+    "NaverWebtoon.pt" : "https://drive.google.com/uc?id=1aV3S-NaJIq_iXjTgLY0JPTbFbmDBWRUf",
     "NaverWebtoon_FreezeSG.pt" : "https://drive.google.com/uc?id=1p0q5rjWTFZVD0oN4L4Cq-1Z5QrTzPA_q",
-    "NaverWebtoon_StructureLoss.pt" : "https://drive.google.com/uc?id=1JeffrgcMv8OfPMU-nbK4iJXwmgU2yXpa",
+    "NaverWebtoon_StructureLoss.pt" : "https://drive.google.com/uc?id=18xKX8_StI_r-JbZjJZZSGILdbJaVSnb5",
 
-    "Romance101.pt" : "https://drive.google.com/uc?id=1NVjyjyye7UQgTwyclPHx1R8dDOEt4b_U",
+    "Romance101.pt" : "https://drive.google.com/uc?id=1-rA0gLyUzbQrl-VAv3Ogo4evL1mMLwWG",
 
-    "TrueBeauty.pt" : "https://drive.google.com/uc?id=1em9meBQ9YCnBQkQiiqH4HHVNobhZA6NL",
+    "TrueBeauty.pt" : "https://drive.google.com/uc?id=177Vp3CcFxcLhtq1gfkUooKh5t45rO2_M",
 
-    "Disney.pt" : "https://drive.google.com/uc?id=1bc9Mh6cEzlkHZJwnRrPX6T2EGqSHh-6c",
-    "Disney_FreezeSG.pt" : "https://drive.google.com/uc?id=1vQ0ZSjwgVkjxS9XojJF_khI50aME-Bap",
-    "Disney_StructureLoss.pt" : "https://drive.google.com/uc?id=1_RIR8gGnadR0lGBlVSGQVCQ2AQZuQJnI",
+    "Disney.pt" : "https://drive.google.com/uc?id=1SW_cintOgxb85oqU6x9YKbBc2GiPFToX",
+    "Disney_FreezeSG.pt" : "https://drive.google.com/uc?id=13H90RrkQipmD-ApVASAt60VxfrhwrK5U",
+    "Disney_StructureLoss.pt" : "https://drive.google.com/uc?id=1b3CjrJEan801a1LtsvjNOr3PZdfNzBnp",
     
-    "Metface_FreezeSG.pt" : "https://drive.google.com/uc?id=1oAUZlE2BEmE8hCCBbq4kJIyQHousmTep",
-    "Metface_StructureLoss.pt" : "https://drive.google.com/uc?id=1--_sfvGo5auSNwsf3lY78UyXaU6goA3y",
+    "Metface_FreezeSG.pt" : "https://drive.google.com/uc?id=1GAtungqVd3IT0wnJTTLnoWBB_tGAYo9p",
+    "Metface_StructureLoss.pt" : "https://drive.google.com/uc?id=1jxZjB0eF8pW7fjluQezsiEYUutqM79Lp",
 }
 
 def download_pretrained_model(download_all=True, file=''):
